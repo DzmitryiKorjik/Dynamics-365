@@ -1,6 +1,6 @@
-# Contrôle TVA - Dynamics 365
+# Dynamics 365
 
-Cette application permet d'afficher dynamiquement une interface de comparaison TVA dans Microsoft Dynamics 365 en utilisant un script HTML/JavaScript personnalisé et une Azure Function.
+Cette application permet d'afficher dynamiquement une interface dans Microsoft Dynamics 365 en utilisant un script HTML/JavaScript personnalisé et une Azure Function.
 
 ## 📌 Fonctionnalité
 
